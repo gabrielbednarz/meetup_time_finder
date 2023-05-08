@@ -36,7 +36,7 @@ pytest tests/in_pytest
 ---
 
 The 5 warnings you may see are due to using context managers.
-Using context managers with pytest is not necessary.
+Using context managers with pytest-mock is not necessary.
 
 If pytest, while running test_main_mocking_pytest.py, does not recognize mocker object, you should
 deactivate and remove your virtual environment (venv), create and activate the new one. 
