@@ -1,4 +1,4 @@
-# Meetup time finder
+# Meetup Time Finder
 
 The project uses dataclasses. 
 
