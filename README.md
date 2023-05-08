@@ -1,5 +1,7 @@
 # Meetup time finder
 
+The project uses dataclasses. 
+
 Run main.py, enter the number of people, and add their busy time in the correct format. 
 The program will return the times when they can meet.
 
